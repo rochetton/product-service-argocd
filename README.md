@@ -1,1 +1,1 @@
-# product-service-argocd
+#ArgoCD#
